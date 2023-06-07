@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Master in Java 2023</string>
+    <string name="todo">TODO</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+</resources>
